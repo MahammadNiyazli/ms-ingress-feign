@@ -1,0 +1,6 @@
+server:
+  port: 8090
+
+client:
+  urls:
+    ms-employees: localhost:8080
